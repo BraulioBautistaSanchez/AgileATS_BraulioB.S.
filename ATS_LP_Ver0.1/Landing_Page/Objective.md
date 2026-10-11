@@ -1,4 +1,4 @@
-# 01 · Objetivo de la página
+# Objetivo de la página
 
 **Proyecto:** After The Storm (ATS)
 **Desarrollador:** Black Studios

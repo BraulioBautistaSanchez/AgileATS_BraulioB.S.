@@ -22,7 +22,7 @@
 ## Backlog resumido
 
 | ID | Épica | User Story (resumen) | Prioridad | Sprint |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | US-01 | E1 | Ver título y sinopsis en el hero | Alta | 1 |
 | US-02 | E1 | Botón *Pre-Regristro ya* visible | Alta | 1 |
 | US-03 | E3 | Menú de navegación | Alta | 2 |

@@ -1,4 +1,4 @@
-#Product Backlog – User Stories
+# Product Backlog – User Stories
 
 **Proyecto:** After The Storm (ATS) – Landing page
 **Formato:** *Como [usuario], quiero [acción], para [beneficio].*

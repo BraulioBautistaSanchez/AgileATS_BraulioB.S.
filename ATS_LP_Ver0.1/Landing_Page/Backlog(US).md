@@ -113,9 +113,9 @@ Como compañero de carrera o jugador, quiero ver las novedades del desarrollo, p
 
 Una historia se considera terminada cuando:
 
-- [ ] Cumple todos sus criterios de aceptación.
-- [ ] El HTML valida sin errores (W3C Validator).
-- [ ] Se ve bien en móvil, tablet y escritorio.
-- [ ] Se probó en al menos 2 navegadores (Chrome y Firefox).
-- [ ] No hay errores ortográficos.
-- [ ] Fue revisada por otro integrante del equipo.
+- Cumple todos sus criterios de aceptación.
+- El HTML valida sin errores (W3C Validator).
+- Se ve bien en móvil, tablet y escritorio.
+- Se probó en al menos 2 navegadores (Chrome y Firefox).
+- No hay errores ortográficos.
+- Fue revisada por otro integrante del equipo.

@@ -17,7 +17,7 @@ Perfiles de quienes consultarán la landing de **After The Storm (ATS)**. Los da
 
 ## 1. Jugadores interesados
 
-- **Perfil:** Juega con frecuencia en movil, sigue canales y comunidades de videojuegos independientes.
+- **Perfil:** Juega con frecuencia en múltiples plataformas, sigue canales y comunidades de videojuegos independientes.
 - **Objetivos:** Saber la fecha, plataformas, historia y personajes.
 - **Frustraciones:** Páginas sin información clara, sin fecha o sin forma de preregistro.
 - **Qué busca en la página:** Botón *Pre-Regsitro ya* visible, sinopsis, personajes, noticias del juego
@@ -25,7 +25,7 @@ Perfiles de quienes consultarán la landing de **After The Storm (ATS)**. Los da
 
 ## 2. Público objetivo
 
-- **Perfil:** Le interesan los temas históricos, políticos y sociales de México; disfruta de narrativas maduras (series, documentales, novelas).
+- **Perfil:** Le interesan los temas históricos, disfruta de narrativas maduras (series, documentales, novelas), hace ejercico.
 - **Objetivos:** Encontrar un juego con profundidad narrativa y contexto real.
 - **Frustraciones:** Tratamientos superficiales o sensacionalistas de temas delicados.
 - **Qué busca en la página:** Sección Historia, tono serio, información sobre el enfoque del estudio.
@@ -33,7 +33,6 @@ Perfiles de quienes consultarán la landing de **After The Storm (ATS)**. Los da
 
 ## 3. Jugadores casuales
 
-- **Nombre ficticio:** Marco, 21 años
 - **Perfil:** Juega de vez en cuando, desde el celular o la laptop; decide en segundos si algo le interesa.
 - **Objetivos:** Saber de qué trata sin leer demasiado.
 - **Frustraciones:** Textos largos, páginas lentas, diseño confuso.
@@ -50,10 +49,10 @@ Perfiles de quienes consultarán la landing de **After The Storm (ATS)**. Los da
 
 ## 5. Compañeros de carrera
 
-- **Perfil:** Conoce al equipo; puede probar la DEMO, compartir el proyecto y dar retroalimentación.
+- **Perfil:** Conoce al equipo, compartir el proyecto y dar retroalimentación.
 - **Objetivos:** Apoyar el proyecto, reportar errores y difundirlo.
 - **Frustraciones:** No tener un canal claro para enviar comentarios.
-- **Qué busca en la página:** Formulario de contacto, noticias y enlaces fáciles de compartir.
+- **Qué busca en la página:** Forma de contacto, noticias y enlaces fáciles de compartir.
 - **Cita:** *"Quiero probarlo y decirles qué mejorar."*
 
 ## 6. Maestros
@@ -61,7 +60,7 @@ Perfiles de quienes consultarán la landing de **After The Storm (ATS)**. Los da
 - **Perfil:** Evalúa proyectos académicos; revisa estructura, semántica, accesibilidad y cumplimiento de requisitos.
 - **Objetivos:** Verificar que la página esté bien planificada, documentada y funcione correctamente.
 - **Frustraciones:** Código desordenado, falta de justificación o documentación incompleta.
-- **Qué busca en la página:** HTML semántico, navegación clara, formulario funcional, diseño responsive y documentación.
+- **Qué busca en la página:** HTML semántico, navegación clara, diseño responsive y documentación.
 - **Cita:** *"Quiero ver que cada decisión tenga una razón."*
 
 ---

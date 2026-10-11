@@ -1,4 +1,4 @@
-# 02 · Justificación de la estructura
+# Justificación de la estructura
 
 ## 1. ¿Por qué una landing page de una sola página?
 

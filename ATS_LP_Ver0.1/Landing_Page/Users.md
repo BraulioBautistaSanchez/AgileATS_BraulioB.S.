@@ -1,4 +1,4 @@
-# 03 · Usuarios de la página (Personas)
+# Usuarios de la página (Personas)
 
 Perfiles de quienes consultarán la landing de **After The Storm (ATS)**. Los datos son representativos y sirven para orientar el diseño y el contenido.
 

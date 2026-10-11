@@ -8,7 +8,7 @@
 
 ## Objetivo general
 
-Presentar **After The Storm (ATS)**, una aventura narrativa ambientada en una de unas de las operaciones más controversiales de la historia de México, con el fin de generar interés, atraer a una comunidad y convertir a los visitantes en **pre-ordenadores** del juego.
+Presentar **After The Storm (ATS)**, una aventura narrativa ambientada en una de unas de las operaciones más controversiales de la historia de México, con el fin de generar interés, atraer a una comunidad y convertir a los visitantes en **pre-registros** del juego.
 
 ## Objetivos específicos
 

@@ -3,7 +3,6 @@
 **Proyecto:** After The Storm (ATS) – Landing page
 **Formato:** *Como [usuario], quiero [acción], para [beneficio].*
 **Priorización:**  (Alta / media / baja / NA)
-**Estimación:** Story points (1, 2, 3, 5, 8)
 
 ---
 
@@ -22,18 +21,18 @@
 
 ## Backlog resumido
 
-| ID | Épica | User Story (resumen) | Prioridad | Pts | Sprint |
+| ID | Épica | User Story (resumen) | Prioridad | Sprint |
 |---|---|---|---|---|---|
-| US-01 | E1 | Ver título y sinopsis en el hero | Alta | 2 | 1 |
-| US-02 | E1 | Botón *Pre-Regristro ya* visible | Alta | 2 | 1 |
-| US-03 | E3 | Menú de navegación | Alta | 2 | 2 |
-| US-04 | E2 | Leer la historia del juego | Alta | 2 | 2 |
-| US-05 | E2 | Conocer a los personajes | Alta | 5 | 3 |
-| US-06 | E4 | Conocer a Black Studios | media | 3 | 3 |
-| US-07 | E3 | Ver la página correctamente en móvil | Alta | 5 | 4 |
-| US-08 | E3 | Navegación accesible (teclado y lector de pantalla) | media | 3 | 4 ||
-| US-09 | E3 | Menú que se mantenga visible al hacer scroll | baja | 2 | 5 |
-| US-10 | E5 | Leer las noticias del desarrollo | baja | 4 | 5 |
+| US-01 | E1 | Ver título y sinopsis en el hero | Alta | 1 |
+| US-02 | E1 | Botón *Pre-Regristro ya* visible | Alta | 1 |
+| US-03 | E3 | Menú de navegación | Alta | 2 |
+| US-04 | E2 | Leer la historia del juego | Alta | 2 |
+| US-05 | E2 | Conocer a los personajes | Alta | 3 |
+| US-06 | E4 | Conocer a Black Studios | media | 3 |
+| US-07 | E3 | Ver la página correctamente en móvil | Alta | 4 |
+| US-08 | E3 | Navegación accesible (teclado y lector de pantalla) | media | 4 ||
+| US-09 | E3 | Menú que se mantenga visible al hacer scroll | baja | 5 |
+| US-10 | E5 | Leer las noticias del desarrollo | baja | 5 |
 
 ---
 

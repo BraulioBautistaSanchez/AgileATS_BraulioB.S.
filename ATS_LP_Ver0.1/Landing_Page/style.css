@@ -1,0 +1,54 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 5;
+  padding: 2;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Logo a la izquierda, links a la derecha */
+  align-items: center;            /* Centrado vertical */
+  padding: var(--space-sm) var(--space-lg);
+}
+
+
+@media (min-width: 768px) {
+  .features-grid {
+    grid-template-columns: repeat(2, 1fr);  /* Tablet: 2 columnas */
+  }
+}
+
+@media (min-width: 1024px) {
+  .features-grid {
+    grid-template-columns: repeat(3, 1fr);  /* Desktop: 3 columnas */
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #741414;
+  background-color: #050030;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+h2 {
+  margin: 0 0 12px 0;
+  color: #01fd37;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+/* Texto secundario */
+p {
+  margin: 0;
+  color: #ad5928;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}

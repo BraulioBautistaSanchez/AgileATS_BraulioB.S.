@@ -52,3 +52,37 @@ p {
   line-height: 1.5;
   font-size: 0.95rem;
 }
+
+/* Base: Mobile */
+.hero {
+  text-align: center;
+  padding: var(--space-xl) var(--space-sm);
+}
+
+.hero h1 {
+  font-size: var(--font-size-2xl);
+  line-height: 1.2;
+}
+
+.hero p {
+  font-size: var(--font-size-base);
+  color: var(--color-text-muted);
+  margin-top: var(--space-sm);
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+  .hero {
+    padding: var(--space-2xl) var(--space-lg);
+  }
+
+  .hero h1 {
+    font-size: var(--font-size-3xl);
+  }
+
+  .hero p {
+    font-size: var(--font-size-lg);
+    max-width: 600px;
+    margin-inline: auto;
+  }
+}

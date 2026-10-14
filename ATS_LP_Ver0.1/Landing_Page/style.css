@@ -29,8 +29,8 @@ html {
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   line-height: 1.6;
-  color: #741414;
-  background-color: #050030;
+  color: #9c3434;
+  background-color: #000000;
 }
 
 img {
@@ -40,7 +40,7 @@ img {
 }
 h2 {
   margin: 0 0 12px 0;
-  color: #01fd37;
+  color: #9c3434;
   font-size: 1.5rem;
   font-weight: 700;
 }
@@ -48,7 +48,7 @@ h2 {
 /* Texto secundario */
 p {
   margin: 0;
-  color: #ad5928;
+  color: #9c3434;
   line-height: 1.5;
   font-size: 0.95rem;
 }

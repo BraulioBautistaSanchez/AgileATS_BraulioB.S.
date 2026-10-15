@@ -55,6 +55,7 @@ p {
 }
 
 /* Base: Mobile */
+@media (min-width:  640px) {
 .hero {
   text-align: center;
   padding: var(--space-xl) var(--space-sm);
@@ -64,11 +65,18 @@ p {
   font-size: var(--font-size-2xl);
   line-height: 1.2;
 }
-
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #9c3434;
+ background: #37392C;
+background: linear-gradient(0deg, rgba(55, 57, 44, 1) 0%, rgba(23, 24, 17, 1) 100%);
+}
 .hero p {
   font-size: var(--font-size-base);
   color: var(--color-text-muted);
   margin-top: var(--space-sm);
+}
 }
 
 /* Tablet */
